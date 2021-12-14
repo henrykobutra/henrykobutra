@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @henrykobutra
-- 👀 I’m interested in Mobile and Web Development. Especially in Flutter and Node.js
-- 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on open source projects in dart and node.js.
+- 👀 I’m interested in Mobile and Web Development.
+- 🌱 I’m currently learning Web3.
+- 💞️ I’m looking to collaborate on open source projects in web3 and node.js.
 - 📫 You can reach me via telegram @henrykobutra
