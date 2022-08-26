@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @henrykobutra
-- 👀 I’m interested in Mobile and Web Development.
-- 🌱 I’m currently learning Web3.
-- 💞️ I’m looking to collaborate on open source projects in web3 and node.js.
-- 📫 You can reach me via telegram @henrykobutra
+- 👀 visit https://kobutra.com
