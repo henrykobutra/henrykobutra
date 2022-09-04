@@ -1,6 +1,6 @@
 ### Hi visitor (or bot?) 👋
 
-#### Trilingual product manager and digital expert that loves building impactful and enjoyable products
+#### I go by Henry. I have a different legal name.
 
 ##### NOW
 
