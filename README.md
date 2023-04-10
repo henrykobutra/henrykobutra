@@ -1,5 +1,5 @@
 # Hey there! 👋
-I'm Henry, a Director of Products and self-proclaimed Tech Gear Junkie who loves to bring creativity and innovation to every project I work on. I was born in Thailand, I've most of my childhood in Germany, and I'm now based in the USA.
+I'm Henry, a Director of Products and self-proclaimed Tech Gear Junkie who loves to bring creativity and innovation to every project I work on. I was born in Thailand, I've spent most of my childhood in Germany, and I'm now based in the USA.
 
 ## What I'm up to
 🚀 I'm currently leading a team of product enthusiasts as a Director of Products, brewing up innovative ideas and launching amazing products that delight users. I'm also excited to share my latest project, uncodename.com, a playful and inventive web app that generates one-of-a-kind codenames for any secret mission or project you can imagine. Whether you're planning a surprise party, building a groundbreaking app, or forming a new band, "uncodename" brings a sense of adventure and intrigue to your endeavors. With a simple click, users can effortlessly create captivating codenames, injecting an extra dose of fun and excitement into their creative pursuits.
