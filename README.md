@@ -15,18 +15,14 @@
 
 ### 🛡️ Certifications & Licenses
 
-*Customer Experience Professional*
-[![FCXP](https://img.shields.io/badge/Forrester-CX_Pro-55C382?logo=forrester)](https://www.forrester.com)
-*Scrum Master certification*
-[![PSM I](https://img.shields.io/badge/Scrum.org-PSM-127C92)](https://www.scrum.org)
-*Practical Network Penetration Tester*
-[![PNPT](https://img.shields.io/badge/TCM_Security-PNPT-D80750)](https://certifications.tcm-sec.com/pnpt/)
-*Certified in Cybersecurity*
-[![ISC2 CC](https://img.shields.io/badge/ISC²-CC-468245)](https://www.isc2.org)
-*Certified Ethical Hacker*
-[![CEH](https://img.shields.io/badge/EC_Council-CEH-D63D32)](https://www.eccouncil.org)
-*Extra Class Radio Operator*
-[![Extra Class](https://img.shields.io/badge/FCC-Extra_Class_Radio_Operator-2C76D6?logo=fcc)](https://www.fcc.gov)
+| Certification | What it means |
+|--------------|---------------|
+| [![FCXP](https://img.shields.io/badge/Forrester-CX_Pro-55C382?logo=forrester)](https://www.forrester.com) | Expert in designing and improving customer experiences |
+| [![PSM I](https://img.shields.io/badge/Scrum.org-PSM-127C92)](https://www.scrum.org) | Professional Agile project management leader |
+| [![PNPT](https://img.shields.io/badge/TCM_Security-PNPT-D80750)](https://certifications.tcm-sec.com/pnpt/) | Hands-on network security testing specialist |
+| [![ISC2 CC](https://img.shields.io/badge/ISC²-CC-468245)](https://www.isc2.org) | Foundation-level cybersecurity professional |
+| [![CEH](https://img.shields.io/badge/EC_Council-CEH-D63D32)](https://www.eccouncil.org) | Certified to find and fix security vulnerabilities |
+| [![Extra Class](https://img.shields.io/badge/FCC-Extra_Class_Radio_Operator-2C76D6?logo=fcc)](https://www.fcc.gov) | Highest level amateur radio operator license |
 
 ---
 
