@@ -1,59 +1,38 @@
-# 👋 Hi, I'm Henry 
+# 👋 Hi, I'm Henry
 
-**Full-stack problem solver** | **Tech Swiss Army Knife** | **AI + Security Enthusiast**  
-*15 years of turning chaos into solutions across agencies, finance, SaaS, and e-commerce*
+**Co-Founder @ Redii | Professional Code Paramedic | AI & Security Specialist**
 
----
+Reviving AI projects and securing digital dumpster fires since IE6 was relevant. I specialize in turning architectural chaos into streamlined, secure solutions—currently scaling [Redii](https://redii.co).
 
-## 🔧 Technical Toolbox
+### 🔧 Technical Toolbox
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**"I know just enough to be dangerous"**  
-`Python` `JavaScript` `AWS` `AI/ML` `Cybersecurity` `Red Teaming` `Scrum` `Product Management`  
-*Continuously sharpening: Generative AI • Cybersecurity • Prompt Engineering*
+* **Current Stack:** Next.js, Shadcn, Drizzle ORM, Playwright.
+* **Specialty:** AI-augmented development & "Product Management with a scalpel."
 
----
+### 🛡️ Credentials & Education
+| Credential | Focus / Status |
+| :--- | :--- |
+| **MBA (IT Management)** | *In Progress* |
+| **B.S. in Information Technology** | Western Governors University |
+| **A.S. in Artificial Intelligence** | Houston City College |
+| **CPTS** | Certified Penetration Testing Specialist (HTB) |
+| **PMP®** | Project Management Professional |
+| **AWS Certified Cloud Practitioner** | Cloud Infrastructure Foundations |
+| **CEH / PNPT / ISC2 CC** | Cybersecurity & Penetration Testing |
+| **Extra Class License** | Amateur Radio (**AI5OE**) |
 
-### 🛡️ Certifications & Licenses
-
-| Certification | What it means |
-|--------------|---------------|
-| [![FCXP](https://img.shields.io/badge/Forrester-CX_Pro-55C382?logo=forrester)](https://www.forrester.com) | Expert in designing and improving customer experiences |
-| [![PSM I](https://img.shields.io/badge/Scrum.org-PSM-127C92)](https://www.scrum.org) | Professional Agile project management leader |
-| [![PNPT](https://img.shields.io/badge/TCM_Security-PNPT-D80750)](https://certifications.tcm-sec.com/pnpt/) | Hands-on network security testing specialist |
-| [![ISC2 CC](https://img.shields.io/badge/ISC²-CC-468245)](https://www.isc2.org) | Foundation-level cybersecurity professional |
-| [![CEH](https://img.shields.io/badge/EC_Council-CEH-D63D32)](https://www.eccouncil.org) | Certified to find and fix security vulnerabilities |
-| [![Extra Class](https://img.shields.io/badge/FCC-Extra_Class_Radio_Operator-2C76D6?logo=fcc)](https://www.fcc.gov) | Highest level amateur radio operator license |
-
----
-
-### 🚀 Some Fun Projects
-
-[![Resumo.cc](https://img.shields.io/badge/AI-Resumo.cc-4B0082?logo=openai)](https://resumo.cc)  
-*AI-powered resume builder for the terminally humble*
-
-[![Uncodename](https://img.shields.io/badge/Web-Uncodename.com-2C3E50?logo=next.js)](https://uncodename.com)  
-*Because "Project Banana" deserves better*
-
-[![reARMKali](https://img.shields.io/badge/Kali-reARMKali-557C94?logo=kalilinux)](https://github.com/henrykobutra/reARMKali)  
-*Making Kali on ARM less painful since yesterday*
-
----
+### ⚡ Currently in the Lab
+`[████████░░░░░░] 60% — Studying for CISSP / OSCP`
 
 ### 💡 Engineering Philosophy
-
-> "**The little things count - and they add up.**"  
-> *I build solutions with attention to detail, believing that clean code and thoughtful design create lasting impact.*
-
----
+*"The little things count—and they add up."*
+I build with an obsessive attention to detail, believing that clean code and thoughtful design are the only real ways to create lasting impact.
 
 ### 📻 When I'm Not Coding
+Mentoring tech professionals, breaking (then fixing) my personal lab environments, or making random radio contacts as **AI5OE**. 
 
-- Mentoring tech professionals over ☕  
-- Breaking (then fixing) personal lab environments  
-- Making random radio contacts as **AI5OE**  
-- Certifying my way through imposter syndrome
+P.S. My code might have vulnerabilities, but my persistence doesn't. 🔒
 
 ---
-
-**P.S.** *My code might have vulnerabilities, but my persistence doesn't.* 🔒  
-*Want to brainstorm security solutions or AI projects?* [Let's connect](https://linkedin.com/in/henrykobutra)
+[LinkedIn](https://www.linkedin.com/in/henrykobutra) • [Personal Website](https://kobutra.com)
