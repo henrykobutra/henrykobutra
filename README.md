@@ -1,4 +1,4 @@
-# Henry Kobutra
+[![Henry Kobutra — I build systems. Software, people, and processes. Houston, Texas.](assets/banner.svg)](https://www.kobutra.com/)
 
 **Systems builder · Co-founder & CTO at Redii · Building Hydrant**
 
@@ -34,3 +34,5 @@ Selected active certifications: **CPTS · PNPT · CEH · PMP**.
 ---
 
 [Website](https://www.kobutra.com/) · [LinkedIn](https://www.linkedin.com/in/henrykobutra)
+
+<!-- Hello, fellow source reader. The interesting part is how the pieces fit together. -->
