@@ -1,21 +1,26 @@
 [![Henry Kobutra — I build systems. Software, people, and processes. Houston, Texas.](assets/banner.svg)](https://www.kobutra.com/)
 
-**Systems builder · Co-founder & CTO at Redii · Building Hydrant**
+**Technology and AI product leader · Co-founder & CTO at Redii · Houston, Texas**
 
-I work across business and technology, designing how software, people, and processes fit together. Based in Houston, Texas.
+I lead product and engineering in regulated industries, and I still build. Most of my recent work lives in private repositories, so here's what's in them.
 
-## What I'm building
+## Now
 
-- **[Redii](https://www.redii.co/)** — Software that helps companies offer and manage benefits for global teams. I'm the co-founder and CTO, working on the platform behind benefits administration and international programs.
-- **[Hydrant](https://hydrant.dev/)** — An issue tracker for builders and their agents. Capture work, connect blockers, and work from the same context.
+**[Redii](https://www.redii.co/)**: co-founded the company and built its global employee-benefits platform as CTO of a three-person team: 10 languages, 150+ countries, setup in about an hour.
 
-## How I work
+- 2,300+ merged pull requests since February 2026, directing a team of AI coding agents alongside the human team
+- A 43-tool MCP server that gives AI assistants permission-scoped access to benefits, retirement and payroll data
+- 730+ automated test files, 28 end-to-end journeys and CI gates for types, access control, dependencies and assistant evals
 
-I want to understand what a system needs to do, then stay close enough to the implementation to know whether it does it. I work with AI agents every day: deciding what to delegate, setting boundaries, and checking the result.
+**[Hydrant](https://hydrant.dev/)**: an issue tracker for people who work with AI agents. 860+ merged pull requests in ten weeks.
 
-Before Redii, I was Director of Product at Mayan, SVP and Head of Digital Business Innovation at Principal's Thailand business, and VP of Digital Business Strategy at TISCO.
+## Before
 
-## Notes
+- **SVP, Head of Digital Business Innovation, Principal Financial Group (Thailand business)**: cut app development cost by about 50% (roughly $300K), took app NPS from -36 to +11 and nearly doubled retirement-app conversion
+- **VP, Digital Business Strategy, TISCO Financial Group**: launched banking, lending and retirement apps and 10 corporate sites; manager to VP in under a year
+- **Director of Product, Mayan**: dashboard engagement up 180%; led research and UX for an ML ad-bidding product
+
+## Writing
 
 I write practical guides about building systems, reviewing agent work, and making engineering decisions.
 
@@ -27,9 +32,7 @@ I write practical guides about building systems, reviewing agent work, and makin
 
 ## Education & certifications
 
-I hold an **MBA in IT Management** and a **BS in Information Technology** from Western Governors University.
-
-Selected active certifications: **CPTS · PNPT · CEH · PMP**.
+MBA in IT Management and BS in IT (Western Governors University) · AAS in Artificial Intelligence (Houston City College) · PMP, CEH, CPTS, PNPT
 
 ---
 
